@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olá mundo</string>
+    <string name="greetings">Olá, estou programando um aplicativo no Android</string>
+</resources>
